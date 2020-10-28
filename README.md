@@ -3,3 +3,124 @@
 From the book of SEO Management. I'm creating a summary of the book with its important concepts and best practice for SEO.
 
 The folders go in order of the chapters and some images are included from the book :) 
+
+# 1. State of the Art SEO (Search Engines) 
+
+– in Russia, there is Yandex, which has a fairly large market share with more than 50%, while Google has less than 45%;
+
+– in South Korea, there is Naver, which has a market share of 25–30% (Google possesses the majority);
+
+– in Japan, there is Yahoo! Japan, a local search engine based on Bing’s results in Japanese and which has an average market share of about 30%, depending on the year (Google also has the remaining share of the majority in this case).
+
+# 2. Project Management 
+
+To set up SEO campaigns you need to plan:
+
+- Technical optimization;
+
+- Semantic Optimization;
+
+- Optimization of external links (off-site SEO)
+
+- Plans for redirection, website cleaning, etc...
+
+- The writing of fresh and quality content 
+
+- Meetings and call to ensure the smooth running of the project
+
+---------------------------------------------------------------------
+
+For any SEO project, we have specification that list these major steps and 
+what we must achieve within them:
+
+- SEO audit (technical and semantic)
+
+- Optimization of external links (off-site SEO) 
+
+- Plans for redirection, website cleaning etc
+
+- The writing of fresh and quality content 
+
+- follow-up
+
+- strategic monitoring
+
+- monitoring e-reputation
+
+----------------------------------------------------------------------
+
+#2.2 Kick-off meeting 
+
+– monthly SEO positions;
+– unique monthly visits;
+– number of page views;
+– backlinks;
+– remaining 4xx error pages;
+– remaining 3xx pages (to be removed);
+– bounce rate;
+– orphaned/poorly linked pages if necessary;
+– page indexing rate (number of real pages in the site versus the number of pages indexed by Google);
+– active page rate (i.e. pages that have received at least one SEO visit per month);
+– inactive page rate (i.e. pages that have not received any SEO visits per month);
+– monthly conversions;
+– monthly transactions;
+– other KPIs that customers can request on demand
+
+
+# 2.3 Reverse Schedule 
+
+Used in project management, the Gantt chart is one of the most concrete tools for visually representing the progress of the various activities (tasks) that constitute a project. Often, the left column of the diagram lists all the tasks to be performed and the header line represents the most appropriate time units (or dates) for the project (days, weeks, months, etc.). 
+
+# 2.7 The Study of Keywords
+
+To choose the keywords, we must ask ourselves the following questions:
+
+	– Has this word been searched for enough?
+	– Is this word too competitive?
+	– Does this word match the theme of my page?
+	– Who positions themselves with regard to this word? (See competitors in search results.)
+	Keywords are part of SEO’s semantic strategy. They are very important to define and target the way a site wants to communicate and position itself.
+
+	The study of keywords is also an essential step in an SEO strategy, because it allows you to:
+
+	– be aware of how Internet users talk about a theme;
+	– understand the expectations of Internet users with regard to a subject;
+	– optimize the website with popular keywords;
+	– position yourself around sought-after and specific requests for which you want to be a specialist in your niche.
+
+#2.12 Follow-up Maintenance and reporting 
+
+Start monitoring the evolution of the site via KPIs 
+
+	– monthly SEO positions;
+	– unique monthly visits;
+	– number of page views;
+	– backlinks;
+	– remaining 404 error pages;
+	– remaining 3xx pages (to be removed);
+	– bounce rate;
+	– monthly conversions;
+	– monthly turnover;
+	– page indexing rate (number of real pages in the site versus the number of pages indexed by search engines).
+	Traffic performance measurement tools exist for each search engine. Here are the best known, which we use regularly:
+
+	– Google Analytics (American);
+	– Baidu Tongji (Chinese);
+	– Yandex Metrica (Russian).
+
++--- SEMrush for tracking the keywords on which a site is ranked by default ---+
+
+tools for SEO ranking 
+	– Advanced Web Ranking;
+	– SEO Power Suite;
+	– Ahrefs Rank Tracker;
+	– Myposeo;
+	– Ranxplorer;
+	– Monitorank;
+	– PRORankTracker.
+
+
+
+
+
+	
