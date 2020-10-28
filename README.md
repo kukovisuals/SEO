@@ -16,55 +16,44 @@ The folders go in order of the chapters and some images are included from the bo
 
 To set up SEO campaigns you need to plan:
 
-- Technical optimization;
-
-- Semantic Optimization;
-
-- Optimization of external links (off-site SEO)
-
-- Plans for redirection, website cleaning, etc...
-
-- The writing of fresh and quality content 
-
-- Meetings and call to ensure the smooth running of the project
+	- Technical optimization;
+	- Semantic Optimization;
+	- Optimization of external links (off-site SEO)
+	- Plans for redirection, website cleaning, etc...
+	- The writing of fresh and quality content 
+	- Meetings and call to ensure the smooth running of the project
 
 ---------------------------------------------------------------------
 
 For any SEO project, we have specification that list these major steps and 
 what we must achieve within them:
 
-- SEO audit (technical and semantic)
-
-- Optimization of external links (off-site SEO) 
-
-- Plans for redirection, website cleaning etc
-
-- The writing of fresh and quality content 
-
-- follow-up
-
-- strategic monitoring
-
-- monitoring e-reputation
+	- SEO audit (technical and semantic)
+	- Optimization of external links (off-site SEO) 
+	- Plans for redirection, website cleaning etc
+	- The writing of fresh and quality content 
+	- follow-up
+	- strategic monitoring
+	- monitoring e-reputation
 
 ----------------------------------------------------------------------
 
 ## 2.2 Kick-off meeting 
 
-– monthly SEO positions;
-– unique monthly visits;
-– number of page views;
-– backlinks;
-– remaining 4xx error pages;
-– remaining 3xx pages (to be removed);
-– bounce rate;
-– orphaned/poorly linked pages if necessary;
-– page indexing rate (number of real pages in the site versus the number of pages indexed by Google);
-– active page rate (i.e. pages that have received at least one SEO visit per month);
-– inactive page rate (i.e. pages that have not received any SEO visits per month);
-– monthly conversions;
-– monthly transactions;
-– other KPIs that customers can request on demand
+	– monthly SEO positions;
+	– unique monthly visits;
+	– number of page views;
+	– backlinks;
+	– remaining 4xx error pages;
+	– remaining 3xx pages (to be removed);
+	– bounce rate;
+	– orphaned/poorly linked pages if necessary;
+	– page indexing rate (number of real pages in the site versus the number of pages indexed by Google);
+	– active page rate (i.e. pages that have received at least one SEO visit per month);
+	– inactive page rate (i.e. pages that have not received any SEO visits per month);
+	– monthly conversions;
+	– monthly transactions;
+	– other KPIs that customers can request on demand
 
 
 ## 2.3 Reverse Schedule 
@@ -127,60 +116,58 @@ Technial SEO: from HTML tags to URL
 
 The technical aspect of SEO takes place in several steps and consists of checking the following points:
 
-– the crawl of the site;
-– indexing of web pages;
-– the loading time of the pages;
-– the internal linking;
-– the structure of the site (not too deep).
+	– the crawl of the site;
+	– indexing of web pages;
+	– the loading time of the pages;
+	– the internal linking;
+	– the structure of the site (not too deep).
 
 
 ## 3.2 Compliant URL for SEO 
 
 A URL is considered "non-compliant" when it does not meet the following criteria:
 
-- Precense of an HTML page 
-- presence of an HTTP 200 header
-- presence of a canonical tag pointing towards itself 
-- absence of meta noindex tags in strategic pages 
+	- Precense of an HTML page 
+	- presence of an HTTP 200 header
+	- presence of a canonical tag pointing towards itself 
+	- absence of meta noindex tags in strategic pages 
 
 
 ## 3.9 Loaidng times by page type
 
 To measure and analyze page loading times, we divide a site by page type:
 
-– home page;
-– category pages;
-– sub-category pages;
-– product or article pages.
+	– home page;
+	– category pages;
+	– sub-category pages;
+	– product or article pages.
 
 TOOLS!!! -> such as Dareboost or Web Page Test
 
 What is a good speed index? A good speed index (on mobile) is below 3,000. Here is what the score ranges mean:
 
-– very good: less than 2,000;
-– good: less than 3,000;
-– fair: less than 5,000;
-– bad: between 5,000 and 10,000;
-– very bad: more than 10,000.
-
-
+	– very good: less than 2,000;
+	– good: less than 3,000;
+	– fair: less than 5,000;
+	– bad: between 5,000 and 10,000;
+	– very bad: more than 10,000.
 
 
 ## 3.10 robots.txt
 
 Here is the syntax proposed by Google (also valid for other search engines) in its online documentation2:
 
-– the robots.txt file must be an ASCII or UTF-8 text file. No other characters are allowed;
-– a robots.txt file consists of one or more rules;
-– each rule is composed of several directives (instructions) and only one directive per line is required.
-A rule provides the following information:
+	– the robots.txt file must be an ASCII or UTF-8 text file. No other characters are allowed;
+	– a robots.txt file consists of one or more rules;
+	– each rule is composed of several directives (instructions) and only one directive per line is required.
+	A rule provides the following information:
 
-– the robot (user-agent) to which the rule applies;
-– the directories or files which this agent can access, if applicable;
-– the directories or files which this agent cannot access, if applicable;
-– rules are treated from top to bottom and the same user-agent can only fall under one rule, defined as the first most specific rule governing his behavior;
-– the starting principle is that from the moment a page or directory is not blocked by a disallow rule, the user-agent can explore it;
-– the rules are case sensitive
+	– the robot (user-agent) to which the rule applies;
+	– the directories or files which this agent can access, if applicable;
+	– the directories or files which this agent cannot access, if applicable;
+	– rules are treated from top to bottom and the same user-agent can only fall under one rule, defined as the first most specific rule governing his behavior;
+	– the starting principle is that from the moment a page or directory is not blocked by a disallow rule, the user-agent can explore it;
+	– the rules are case sensitive
 
 
 ## Example 1: Only block Googlebot
@@ -209,21 +196,21 @@ Disallow: /
 
 The sitemap.xml helps to index a site faster. We recommend the following hierarchy to prioritize (in the <priority> tags of a sitemap) the indexing of pages in a site:
 
-– home page: 1.0;
-– category pages: 0.8;
-– main product pages, bestsellers: 0.8;
-– other product pages (ranges, secondary, etc.) : 0.7;
-– other pages (company history, team, etc.): 0.5;
-– legal pages (legal notices, terms and conditions, etc.): 0.2.
+	– home page: 1.0;
+	– category pages: 0.8;
+	– main product pages, bestsellers: 0.8;
+	– other product pages (ranges, secondary, etc.) : 0.7;
+	– other pages (company history, team, etc.): 0.5;
+	– legal pages (legal notices, terms and conditions, etc.): 0.2.
 
 
 We also recommend having the tag <changefreq> for the frequency of page changes and to indicate the following elements for the types of pages concerned:
 
-– home page: daily;
-– news pages (blog, magazine, news, etc.): daily;
-– category pages: weekly;
-– product pages: daily;
-– legal notices, terms and conditions, etc.: monthly.
+	– home page: daily;
+	– news pages (blog, magazine, news, etc.): daily;
+	– category pages: weekly;
+	– product pages: daily;
+	– legal notices, terms and conditions, etc.: monthly.
 
 ## 3.17 Meta Tags
 
@@ -233,17 +220,17 @@ These tags must be coded in teh <head></head> part of the tag of the page
 
 ## 3.17 Headings Tags
 
-– H1: level 1 containing the subject or main information 
+	– H1: level 1 containing the subject or main information 
 
-- H2: Level 2 containning a subtitle of H1
+	- H2: Level 2 containning a subtitle of H1
 
-- H3: level 3 Specific to the page and gives more info than H1 and H2
+	- H3: level 3 Specific to the page and gives more info than H1 and H2
 
-- H4: level 4 containing small titles for each paragraph. Minimal SEO impact 
+	- H4: level 4 containing small titles for each paragraph. Minimal SEO impact 
 
-- H5: level 5 specific product or element name. no impact in SEO 
+	- H5: level 5 specific product or element name. no impact in SEO 
 
-- H6: level 6 rarely use 
+	- H6: level 6 rarely use 
 
 
 ## 3.19 Hreflang Taging
@@ -281,11 +268,11 @@ The <title> tag is the tag that would have the most influence in terms of the im
 
 Characters for the titles (including spaces) in search engine:
 
-- Google: 50
-- Baidu: 20
-- Naver: 15
-- Yandex: 60
-- Yahoo! japan: 15 to 20 
+	- Google: 50
+	- Baidu: 20
+	- Naver: 15
+	- Yandex: 60
+	- Yahoo! japan: 15 to 20 
 
 Title formats recommendations 
 
@@ -301,33 +288,33 @@ The tag <meta name=“description” content=“...”> is the tag that allows u
 
 limit of the description in characters including spaces 
 
-- Google: 156 
-- Baidu: 80 to 100
-- Naver: 40 to 45
-- Yandex: 155 to 160
-- Yahoo! Japan: 45 to 50
+	- Google: 156 
+	- Baidu: 80 to 100
+	- Naver: 40 to 45
+	- Yandex: 155 to 160
+	- Yahoo! Japan: 45 to 50
 
 By page typology this are some recommendations:
 
-– home page: discover the world of BRAND, specialist in KEYWORD 1, KEYWORD 2. Visit our 	official website EXAMPLE.COM;
+	– home page: discover the world of BRAND, specialist in KEYWORD 1, KEYWORD 2. Visit our 	official website EXAMPLE.COM;
 
-– categories page: discover our ranges of CATEGORY NAMES or COLLECTIONS. Visit our 				official website to learn more about the BRAND, specialist in KEYWORD 1, KEYWORD 2 (		possibly);
+	– categories page: discover our ranges of CATEGORY NAMES or COLLECTIONS. Visit our 				official website to learn more about the BRAND, specialist in KEYWORD 1, KEYWORD 2 (		possibly);
 
-– product page: discover our product PRODUCT NAME, specializing in KEYWORD 1, KEYWORD 2. 	 Visit our official website EXAMPLE.COM;
+	– product page: discover our product PRODUCT NAME, specializing in KEYWORD 1, KEYWORD 2. 	 Visit our official website EXAMPLE.COM;
 
-– articles page: discover our new article: TITLE OF THE ARTICLE. Visit our official website EXAMPLE.COM.
+	– articles page: discover our new article: TITLE OF THE ARTICLE. Visit our official website EXAMPLE.COM.
 
 
 ## Optimization of text content 
 
 websites that contain nearly 2,000 words are rank 1,2 
 
- - H1: large general topic;
- – H2: major theme;
- – H3: category;
- – H4: subcategory;
- – H5: product;
- – H6: particularities of a product, element or concept;
+	- H1: large general topic;
+	– H2: major theme;
+	– H3: category;
+	– H4: subcategory;
+	– H5: product;
+	– H6: particularities of a product, element or concept;
 
 
 ## Optimization of internal Network size 
