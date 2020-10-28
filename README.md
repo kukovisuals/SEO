@@ -38,7 +38,7 @@ what we must achieve within them:
 
 ----------------------------------------------------------------------
 
-## 2.2 Kick-off meeting 
+## Kick-off meeting 
 
 	– monthly SEO positions;
 	– unique monthly visits;
@@ -56,11 +56,11 @@ what we must achieve within them:
 	– other KPIs that customers can request on demand
 
 
-## 2.3 Reverse Schedule 
+## Reverse Schedule 
 
 Used in project management, the Gantt chart is one of the most concrete tools for visually representing the progress of the various activities (tasks) that constitute a project. Often, the left column of the diagram lists all the tasks to be performed and the header line represents the most appropriate time units (or dates) for the project (days, weeks, months, etc.). 
 
-## 2.7 The Study of Keywords
+## The Study of Keywords
 
 To choose the keywords, we must ask ourselves the following questions:
 
@@ -77,7 +77,7 @@ To choose the keywords, we must ask ourselves the following questions:
 	– optimize the website with popular keywords;
 	– position yourself around sought-after and specific requests for which you want to be a specialist in your niche.
 
-## 2.12 Follow-up Maintenance and reporting 
+## Follow-up Maintenance and reporting 
 
 Start monitoring the evolution of the site via KPIs 
 
@@ -112,7 +112,7 @@ tools for SEO ranking:
 
 # 3. Technical SEO
 
-Technial SEO: from HTML tags to URL
+Technical SEO: from HTML tags to URL
 
 The technical aspect of SEO takes place in several steps and consists of checking the following points:
 
@@ -123,17 +123,17 @@ The technical aspect of SEO takes place in several steps and consists of checkin
 	– the structure of the site (not too deep).
 
 
-## 3.2 Compliant URL for SEO 
+## Compliant URL for SEO 
 
 A URL is considered "non-compliant" when it does not meet the following criteria:
 
-	- Precense of an HTML page 
+	- Presence of an HTML page 
 	- presence of an HTTP 200 header
 	- presence of a canonical tag pointing towards itself 
-	- absence of meta noindex tags in strategic pages 
+	- absence of meta no index tags in strategic pages 
 
 
-## 3.9 Loaidng times by page type
+## Loading times by page type
 
 To measure and analyze page loading times, we divide a site by page type:
 
@@ -155,7 +155,7 @@ What is a good speed index? A good speed index (on mobile) is below 3,000. Here 
 
 ## 3.10 robots.txt
 
-Here is the syntax proposed by Google (also valid for other search engines) in its online documentation2:
+Here is the syntax proposed by Google (also valid for other search engines) in its online documentation:
 
 	– the robots.txt file must be an ASCII or UTF-8 text file. No other characters are allowed;
 	– a robots.txt file consists of one or more rules;
@@ -190,9 +190,7 @@ User-agent: *
 
 Disallow: /
 
-
-
-## 3.11 Sitemap.xml
+## Sitemap.xml
 
 The sitemap.xml helps to index a site faster. We recommend the following hierarchy to prioritize (in the <priority> tags of a sitemap) the indexing of pages in a site:
 
@@ -212,17 +210,17 @@ We also recommend having the tag <changefreq> for the frequency of page changes 
 	– product pages: daily;
 	– legal notices, terms and conditions, etc.: monthly.
 
-## 3.17 Meta Tags
+## Meta Tags
 
 The meta tags are composed of the tag <title> and the tag <meta name=“description”>, as well as the tag <meta name=“keywords”>, which would still be effective with an impact on semantic SEO for most Asian engines
 
 These tags must be coded in teh <head></head> part of the tag of the page 
 
-## 3.17 Headings Tags
+## Headings Tags
 
 	– H1: level 1 containing the subject or main information 
 
-	- H2: Level 2 containning a subtitle of H1
+	- H2: Level 2 containing a subtitle of H1
 
 	- H3: level 3 Specific to the page and gives more info than H1 and H2
 
@@ -233,7 +231,7 @@ These tags must be coded in teh <head></head> part of the tag of the page
 	- H6: level 6 rarely use 
 
 
-## 3.19 Hreflang Taging
+## Hreflang Tagging
 
 If an owner has a site with several language versions, it is necessary to put the tag <link rel=“alternate” href=“example.com/language-folder/” hreflang=“language-country”/> in the <head> part of the multilingual web pages.
 
@@ -242,27 +240,27 @@ In addition, it is also possible to implement the tag <link rel=“alternate” 
 
 
 
-## 3.20 Alt attribute tagging 
+## Alt attribute tagging 
 
 In concrete terms, alt attributes are found in the image tags and are presented in the form as follows:
 
 <img src=“name.jpg” alt= “Keywords - Product name / Category -Brand”/>
 
-## 3.21 Rich snippets tagging 
+## Rich snippets tagging 
 
 Schema.org tags are metadata tags that allow you to add additional info to a webpage. 
 
 
-## 3.26 Seasonality of Pages 
+## Seasonality of Pages 
 
-	1. disentangle the seasonal pages after the period concerned, bt changing titles and meta desription 
+	1. disentangle the seasonal pages after the period concerned, bt changing titles and meta description 
 
 	2. remove products when the event has passed but leave the network page on the site (changing category if necessary)
 
 
-# 4. Semantic SEO, Editorial and Copywriting
+# 4. Semantic SEO, Editorial and Copy writing
 
-## 4.1 Optimization of the title tag
+## Optimization of the title tag
 
 The <title> tag is the tag that would have the most influence in terms of the impact of SEO. This is the title of the search result extract that you see in the search engines.
 
@@ -279,10 +277,10 @@ Title formats recommendations
 - Home page: Brand | keyword | Category or product names;
 - categories page: Category name | keyword | brand;
 - product page: Product name | keyword | brand;
-- written article pages:  Title of the artcile | keyword | brand;
+- written article pages:  Title of the article | keyword | brand;
 
 
-## 4.2 Optimization of the meta Description 
+## Optimization of the meta Description 
 
 The tag <meta name=“description” content=“...”> is the tag that allows us to add a description of a sentence in the attribute “content” in order to introduce the elements that Internet users can read in the web page.
 
