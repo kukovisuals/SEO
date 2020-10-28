@@ -9,7 +9,7 @@ The technical aspect of SEO takes place in several steps and consists of checkin
 – the structure of the site (not too deep).
 
 
-#3.2 Compliant URL for SEO 
+## 3.2 Compliant URL for SEO 
 
 A URL is considered "non-compliant" when it does not meet the following criteria:
 
@@ -19,7 +19,7 @@ A URL is considered "non-compliant" when it does not meet the following criteria
 - absence of meta noindex tags in strategic pages 
 
 
-#3.9 Loaidng times by page type
+## 3.9 Loaidng times by page type
 
 To measure and analyze page loading times, we divide a site by page type:
 
@@ -41,7 +41,7 @@ What is a good speed index? A good speed index (on mobile) is below 3,000. Here 
 
 
 
-#3.10 robots.txt
+## 3.10 robots.txt
 
 Here is the syntax proposed by Google (also valid for other search engines) in its online documentation2:
 
@@ -58,13 +58,13 @@ A rule provides the following information:
 – the rules are case sensitive
 
 
-#Example 1: Only block Googlebot
+## Example 1: Only block Googlebot
 
 User-agent: Googlebot
 
 Disallow: /
 
-#Example 2: Block Googlebot and Adsbot
+## Example 2: Block Googlebot and Adsbot
 
 User-agent: Googlebot
 
@@ -72,7 +72,7 @@ User-agent: AdsBot-Google
 
 Disallow: /
 
-#Example 3: Block all bots
+## Example 3: Block all bots
 
 User-agent: *
 
@@ -80,7 +80,7 @@ Disallow: /
 
 
 
-#3.11 Sitemap.xml
+## 3.11 Sitemap.xml
 
 The sitemap.xml helps to index a site faster. We recommend the following hierarchy to prioritize (in the <priority> tags of a sitemap) the indexing of pages in a site:
 
@@ -100,13 +100,13 @@ We also recommend having the tag <changefreq> for the frequency of page changes 
 – product pages: daily;
 – legal notices, terms and conditions, etc.: monthly.
 
-#3.17 Meta Tags
+## 3.17 Meta Tags
 
 The meta tags are composed of the tag <title> and the tag <meta name=“description”>, as well as the tag <meta name=“keywords”>, which would still be effective with an impact on semantic SEO for most Asian engines
 
 These tags must be coded in teh <head></head> part of the tag of the page 
 
-#3.17 Headings Tags
+## 3.17 Headings Tags
 
 – H1: level 1 containing the subject or main information 
 
@@ -121,7 +121,7 @@ These tags must be coded in teh <head></head> part of the tag of the page
 - H6: level 6 rarely use 
 
 
-#3.19 Hreflang Taging
+## 3.19 Hreflang Taging
 
 If an owner has a site with several language versions, it is necessary to put the tag <link rel=“alternate” href=“example.com/language-folder/” hreflang=“language-country”/> in the <head> part of the multilingual web pages.
 
@@ -130,18 +130,18 @@ In addition, it is also possible to implement the tag <link rel=“alternate” 
 
 
 
-#3.20 Alt attribute tagging 
+## 3.20 Alt attribute tagging 
 
 In concrete terms, alt attributes are found in the image tags and are presented in the form as follows:
 
 <img src=“name.jpg” alt= “Keywords - Product name / Category -Brand”/>
 
-#3.21 Rich snippets tagging 
+## 3.21 Rich snippets tagging 
 
 Schema.org tags are metadata tags that allow you to add additional info to a webpage. 
 
 
-#3.26 Seasonality of Pages 
+## 3.26 Seasonality of Pages 
 
 	1. disentangle the seasonal pages after the period concerned, bt changing titles and meta desription 
 
