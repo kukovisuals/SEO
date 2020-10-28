@@ -1,0 +1,156 @@
+Technial SEO: from HTML tags to URL
+
+The technical aspect of SEO takes place in several steps and consists of checking the following points:
+
+– the crawl of the site;
+– indexing of web pages;
+– the loading time of the pages;
+– the internal linking;
+– the structure of the site (not too deep).
+
+
+#3.2 Compliant URL for SEO 
+
+A URL is considered "non-compliant" when it does not meet the following criteria:
+
+- Precense of an HTML page 
+- presence of an HTTP 200 header
+- presence of a canonical tag pointing towards itself 
+- absence of meta noindex tags in strategic pages 
+
+
+#3.9 Loaidng times by page type
+
+To measure and analyze page loading times, we divide a site by page type:
+
+– home page;
+– category pages;
+– sub-category pages;
+– product or article pages.
+
+TOOLS!!! -> such as Dareboost or Web Page Test
+
+What is a good speed index? A good speed index (on mobile) is below 3,000. Here is what the score ranges mean:
+
+– very good: less than 2,000;
+– good: less than 3,000;
+– fair: less than 5,000;
+– bad: between 5,000 and 10,000;
+– very bad: more than 10,000.
+
+
+
+
+#3.10 robots.txt
+
+Here is the syntax proposed by Google (also valid for other search engines) in its online documentation2:
+
+– the robots.txt file must be an ASCII or UTF-8 text file. No other characters are allowed;
+– a robots.txt file consists of one or more rules;
+– each rule is composed of several directives (instructions) and only one directive per line is required.
+A rule provides the following information:
+
+– the robot (user-agent) to which the rule applies;
+– the directories or files which this agent can access, if applicable;
+– the directories or files which this agent cannot access, if applicable;
+– rules are treated from top to bottom and the same user-agent can only fall under one rule, defined as the first most specific rule governing his behavior;
+– the starting principle is that from the moment a page or directory is not blocked by a disallow rule, the user-agent can explore it;
+– the rules are case sensitive
+
+
+#Example 1: Only block Googlebot
+
+User-agent: Googlebot
+
+Disallow: /
+
+#Example 2: Block Googlebot and Adsbot
+
+User-agent: Googlebot
+
+User-agent: AdsBot-Google
+
+Disallow: /
+
+#Example 3: Block all bots
+
+User-agent: *
+
+Disallow: /
+
+
+
+#3.11 Sitemap.xml
+
+The sitemap.xml helps to index a site faster. We recommend the following hierarchy to prioritize (in the <priority> tags of a sitemap) the indexing of pages in a site:
+
+– home page: 1.0;
+– category pages: 0.8;
+– main product pages, bestsellers: 0.8;
+– other product pages (ranges, secondary, etc.) : 0.7;
+– other pages (company history, team, etc.): 0.5;
+– legal pages (legal notices, terms and conditions, etc.): 0.2.
+
+
+We also recommend having the tag <changefreq> for the frequency of page changes and to indicate the following elements for the types of pages concerned:
+
+– home page: daily;
+– news pages (blog, magazine, news, etc.): daily;
+– category pages: weekly;
+– product pages: daily;
+– legal notices, terms and conditions, etc.: monthly.
+
+#3.17 Meta Tags
+
+The meta tags are composed of the tag <title> and the tag <meta name=“description”>, as well as the tag <meta name=“keywords”>, which would still be effective with an impact on semantic SEO for most Asian engines
+
+These tags must be coded in teh <head></head> part of the tag of the page 
+
+#3.17 Headings Tags
+
+– H1: level 1 containing the subject or main information 
+
+- H2: Level 2 containning a subtitle of H1
+
+- H3: level 3 Specific to the page and gives more info than H1 and H2
+
+- H4: level 4 containing small titles for each paragraph. Minimal SEO impact 
+
+- H5: level 5 specific product or element name. no impact in SEO 
+
+- H6: level 6 rarely use 
+
+
+#3.19 Hreflang Taging
+
+If an owner has a site with several language versions, it is necessary to put the tag <link rel=“alternate” href=“example.com/language-folder/” hreflang=“language-country”/> in the <head> part of the multilingual web pages.
+
+
+In addition, it is also possible to implement the tag <link rel=“alternate” href=“http://example.com/” hreflang=“x-default”/> to define a default language, which Google will determine as the best for the user if no page seems to be qualified for the user.
+
+
+
+#3.20 Alt attribute tagging 
+
+In concrete terms, alt attributes are found in the image tags and are presented in the form as follows:
+
+<img src=“name.jpg” alt= “Keywords - Product name / Category -Brand”/>
+
+#3.21 Rich snippets tagging 
+
+Schema.org tags are metadata tags that allow you to add additional info to a webpage. 
+
+
+#3.26 Seasonality of Pages 
+
+	1. disentangle the seasonal pages after the period concerned, bt changing titles and meta desription 
+
+	2. remove products when the event has passed but leave the network page on the site (changing category if necessary)
+
+
+
+
+
+
+
+
