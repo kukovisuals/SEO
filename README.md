@@ -341,13 +341,51 @@ Home > Category (search keyword) > Subcategory (search keyword) > Product (with 
 # 5. Link Building Methods
 
 
+In these section the main point is to add the link of the site tha you want to optimized into a blog or anothers person site where the link of your site can be added. It depends on the popularity of the site as well as how relevent it is to your content that will help you to have a better ranking on your site.
+
+Images can have a much bigger impact then a text. But add some text or a follow up description after the text so the image can have a better impact for people clicking your site. 
 
 
 
+# 6. Computational and Engineering Applied to SEO
 
+###### Ontology 
 
+It's a data model that represents a set of concepts in a field, as well as the relationshops between them.
 
+In SEO we start from the most generic information to the most specific.
 
+###### Taxonomy
+
+Referes to the classification of resources into files and categories.
+
+###### TF-IDF
+
+The TF-IDF is implemented in many languages in the form of librarie (modules, scripts and computer packages)its is noted that TF-IDF only uses text of the documents
+
+###### N-grams
+
+N-grams are a sequence of words, strings or characters that follow each other and form word bags. 
+
+###### Names entities 
+
+The graphs are used for voice search results in seeach engines that are trying to become responsive engines
+
+###### SEO and computational Engineering 
+
+In our experience, future lies in voice search and voice response,, with considerable progress in thems of human machine communication and voice recognition.
+
+# 7. International SEO Specificities
+
+How are the most popular search engines, and territory in the world:
+
+	- North America and Europe: Google and Bing
+	- China: Baidu, Qihoo 360, Shenma (Alibaba), Sogou
+	- South Korea: Sorry, Daum
+	- France: Qwant 
+	- Japan: Yahoo! Japan
+	- Czech Republic: Seznam;
+	– Russia: Yandex.
 
 
 
